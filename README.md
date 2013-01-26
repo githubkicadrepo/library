@@ -18,7 +18,7 @@ PINS MUST BE AT LEAST 100mills/2.54mm APART ON THE EESCHEMA GRID SYSTEM.
 
 Try to put your parts in a library that makes sense. For example, if you would like to add, say, LT1716, and a "IC - Comparator" library exists, that would be the place to put it!
 
-Please feel free to add package variants, if possible, (same IC, different package footprints), and include the full manufacturing part name for that part, (this indicates the correct package). The aim is also include different manufacturers for similar components, (ie. one part for every manufacturer's variant, including simple things like Caps, Resistors, etc).
+Please feel free to add package variants, if possible, (same IC, different package footprints), and include the full manufacturing part name for that part, (this indicates the correct package). The aim is also include different manufacturers for similar components, (ie. one part for every manufacturer's variant, including simple things like Caps, Resistors, etc). One exception is resistors/capacitors of standard package sizes, (0402, 0603, ..etc), there is currently a debate over how these will be handled.
 
 Full guide/documentation to part creation is coming, but for now, experienced users can contribute. 
 
