@@ -19,7 +19,7 @@ Please feel free to add package variants, if possible, (same IC, different packa
 
 Full guide/documentation to part creation is coming, but for now, experienced users can contribute. 
 
-Essentially, the pipe-dream of this is to have every digikey/mouser/etc manufacturing part possible for access.
+Essentially, the pipe-dream of this is to have every digikey/mouser/etc manufacturing part possible for use in the KiCad suite.
 
 
 Contact/Inquiries email:   githubkicadrepo@gmail.com
