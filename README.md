@@ -1,7 +1,7 @@
 library
 =======
 
-A Public Library for KiCad parts. Please contribute! 
+A Public Library for KiCad parts. Because making large IC's over and over again sucks : ).  Please contribute! 
 
 Each addition, whether to an existing library, or otherwise, must include a part + footprint.  Please try to create schematic parts for IC's by grouping functional buses together.
 
@@ -9,10 +9,17 @@ Be wary of quality enforcement, (no shitty parts please), it will take something
 
 Footprints SHOULD aim to conform to IPC standards, however, it is not reasonable to expect everyone to have access to that literature, and so, if you plan on contributing a part, it must, at the very least, match the suggested land pattern (nominal dims) on the datasheet.
 
-Symbols SHOULD aim to conform to JEDEC standards, but are acceptable as long as they make sense. 
+Symbols SHOULD aim to conform to JEDEC standards, but are acceptable as long as they make sense. THE SYMBOL NAME SHOULD ALWAYS BE THE GENERIC MANUFACTURING PART NUMBER ONLY, (please do not include the packaging suffixes). TRY TO INCLUDE AS MANY OPERATIONAL CHARACTERISTICS AS POSSIBLE, (ie. rated current, supply voltage, series resistance etc).
 
 PINS MUST BE AT LEAST 100mills/2.54mm APART ON THE EESCHEMA GRID SYSTEM. 
 
+Try to put your parts in a library that makes sense. For example, if you would like to add, say, LT1716, and a "IC - Comparator" library exists, that would be the place to put i!t
+
+Please feel free to add package variants, if possible, (same IC, different package footprints), and include the full manufacturing part name for that part, (this indicates the correct package). The aim is also include different manufacturers for similar components, (ie. one part for every manufacturer's variant, including simple things like Caps, Resistors, etc).
+
+Full guide/documentation to part creation is coming, but for now, experienced users can contribute. 
+
+Essentially, the pipe-dream of this is to have every digikey/mouser/etc manufacturing part possible for access.
 
 
 Contact/Inquiries email:   githubkicadrepo@gmail.com
