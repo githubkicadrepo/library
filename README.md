@@ -18,4 +18,9 @@ PINS MUST BE AT LEAST 100mills/2.54mm APART ON THE EESCHEMA GRID SYSTEM.
 Contact/Inquiries email:   githubkicadrepo@gmail.com
 
 
-To ask permission to be a contributor, please include a quick blurb about relevant education/experience in an attempt to communicate competency. All emails will be answered as soon as physically/mentally possible.
+To ask permission to be a contributor, please include the following in your email:
+
+  - "PERMISSION" as your subject line, (otherwise it won't be seen, most likely)
+  - a quick blurb about relevant education/experience in an attempt to communicate competency. 
+
+All emails will be answered as soon as physically/mentally possible.
