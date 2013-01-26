@@ -5,7 +5,7 @@ A Public Library for KiCad parts. Because making large IC's over and over again 
 
 Each addition, whether to an existing library, or otherwise, must include a part + footprint.  Please try to create schematic parts for IC's by grouping functional buses together.
 
-Be wary of quality enforcement, (no shitty parts please), it will take something damn special to allow you to contribute again if one of your additions is found to be lacking in quality. If you aren't sure: ask.
+Be wary of quality enforcement, (no shitty parts please), it will take something special to re-allow contribution privileges if your additions are found to be significantly lacking in quality. If you aren't sure: ask.
 
 Footprints SHOULD aim to conform to IPC standards, however, it is not reasonable to expect everyone to have access to that literature, and so, if you plan on contributing a part, it must, at the very least, match the suggested land pattern (nominal dims) on the datasheet.
 
@@ -13,7 +13,7 @@ Symbols SHOULD aim to conform to JEDEC standards, but are acceptable as long as 
 
 PINS MUST BE AT LEAST 100mills/2.54mm APART ON THE EESCHEMA GRID SYSTEM. 
 
-Try to put your parts in a library that makes sense. For example, if you would like to add, say, LT1716, and a "IC - Comparator" library exists, that would be the place to put i!t
+Try to put your parts in a library that makes sense. For example, if you would like to add, say, LT1716, and a "IC - Comparator" library exists, that would be the place to put it!
 
 Please feel free to add package variants, if possible, (same IC, different package footprints), and include the full manufacturing part name for that part, (this indicates the correct package). The aim is also include different manufacturers for similar components, (ie. one part for every manufacturer's variant, including simple things like Caps, Resistors, etc).
 
