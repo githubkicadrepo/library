@@ -7,4 +7,10 @@ Each addition, whether to an existing library, or otherwise, must include a part
 
 Be wary of quality enforcement, (no shitty parts please), it will take something damn special to allow you to contribute again if one of your additions is found to be lacking in quality. If you aren't sure: ask.
 
+Footprints SHOULD aim to conform to IPC standards, however, it is not reasonable to expect everyone to have access to that literature, and so, if you plan on contributing a part, it must, at the very least, match the suggested land pattern (nominal dims) on the datasheet.
+
+Symbols SHOULD aim to conform to JEDEC standards, but are acceptable as long as they make sense. PINS MUST BE AT LEAST 100mills/2.54mm APART ON THE EESCHEMA GRID SYSTEM.
+
+
+
 Contact email:   githubkicadrepo@gmail.com
