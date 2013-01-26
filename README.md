@@ -1,6 +1,9 @@
 library
 =======
 
+PRELIMINARY DOCUMENTATION AND LIBRARIES IN PROGRESS
+
+
 A Public Library for KiCad parts. Because making large IC's over and over again sucks : ).  Please contribute! 
 
 Each addition, whether to an existing library, or otherwise, must include a part + footprint.  Please try to create schematic parts for IC's by grouping functional buses together.
