@@ -6,13 +6,18 @@ PRELIMINARY DOCUMENTATION AND LIBRARIES IN PROGRESS
 
 A Public Library for KiCad parts. Because making large IC's over and over again sucks : ).  Please contribute! 
 
-Each addition, whether to an existing library, or otherwise, must include a part + footprint.  Please try to create schematic parts for IC's by grouping functional buses together.
+Each addition, whether to an existing library, or otherwise, must include a part + footprint.  EACH ADDITION MUST BE AN AVAILABLE ITEM ON ANY OF THE FOLLOWING ONLINE RETAILERS:
+	- Digikey
+	- Mouser
+	- Arrow
 
-Be wary of quality enforcement, (no shitty parts please), it will take something special to re-allow contribution privileges if your additions are found to be significantly lacking in quality. If you aren't sure: ask.
+Please try to create schematic parts for IC's by grouping functional buses together.
+
+Be wary of quality enforcement, (no incomplete/incorrect parts please), it will take something special to re-allow contribution privileges if your additions are found to be significantly lacking in quality. If you aren't sure, ask.
 
 Footprints SHOULD aim to conform to IPC standards, however, it is not reasonable to expect everyone to have access to that literature, and so, if you plan on contributing a part, it must, at the very least, match the suggested land pattern (nominal dims) on the datasheet.
 
-Symbols SHOULD aim to conform to JEDEC standards, but are acceptable as long as they make sense. THE SYMBOL NAME SHOULD ALWAYS BE THE EXACT MANUFACTURING PART NUMBER ONLY, (please do not include the packaging suffixes). TRY TO INCLUDE AS MANY OPERATIONAL CHARACTERISTICS AS POSSIBLE, (ie. rated current, supply voltage, series resistance etc).
+Symbols SHOULD aim to conform to JEDEC standards, but are acceptable as long as they make sense. THE SYMBOL NAME SHOULD ALWAYS BE THE EXACT MANUFACTURING PART NUMBER ONLY, (please do not include the tape/reel packaging suffixes). TRY TO INCLUDE AS MANY OPERATIONAL CHARACTERISTICS AS POSSIBLE, (ie. rated current, supply voltage, series resistance etc).
 
 PINS MUST BE AT LEAST 100mills/2.54mm APART ON THE EESCHEMA GRID SYSTEM. 
 
