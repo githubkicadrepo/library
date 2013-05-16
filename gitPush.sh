@@ -4,6 +4,11 @@
 #
 # 
 
+
+git pull origin master
+
+git pull githubkicadrepo master
+
 git add SCH_SYMBOLS/*.lib
 git add SCH_SYMBOLS/*.dcm
 git add DOCUMENTATION/*
