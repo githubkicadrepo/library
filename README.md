@@ -41,7 +41,7 @@ To ask permission to be a contributor, please include the following in your emai
 To report a faulty component, (something is wrong w/ SCH or Footprint symbol), please include the following in your email:
 
   - "FAULTY" as your subject line, (otherwise, it won't be seen, most likely)
-  - It's exact location in the libraries
+  - Its exact location in the libraries
   - Try to be as exact as possible in your description of what exactly is wrong with said part
 
 All emails will be answered as soon as physically/mentally possible.
