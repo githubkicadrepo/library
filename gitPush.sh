@@ -1,4 +1,8 @@
 #!/bin/bash
+#
+# must git commit -am "comment" before using this script
+#
+# 
 
 git add SCH_SYMBOLS/*.lib
 git add SCH_SYMBOLS/*.dcm
