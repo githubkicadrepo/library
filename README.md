@@ -15,7 +15,7 @@ Please try to create schematic parts for IC's by grouping functional buses toget
 
 Be wary of quality enforcement, (no incomplete/incorrect parts please), it will take something special to re-allow contribution privileges if your additions are found to be significantly lacking in quality. If you aren't sure, ask.
 
-Footprints SHOULD aim to conform to IPC standards, however, it is not reasonable to expect everyone to have access to that literature, and so, if you plan on contributing a part, it must, at the very least, match the suggested land pattern (nominal dims) on the datasheet.
+Footprints SHOULD aim to conform to IPC standards, especially naming, to reduce copies, (see IPC-7351), however, it is not reasonable to expect everyone to have access to that literature, and so, if you plan on contributing a part, it must, at the very least, match the suggested land pattern (nominal dims) on the datasheet.
 
 Symbols SHOULD aim to conform to JEDEC standards, but are acceptable as long as they make sense. THE SYMBOL NAME SHOULD ALWAYS BE THE EXACT MANUFACTURING PART NUMBER ONLY, (please do not include the tape/reel packaging suffixes). TRY TO INCLUDE AS MANY OPERATIONAL CHARACTERISTICS AS POSSIBLE, (ie. rated current, supply voltage, series resistance etc).
 
