@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Sat 25 May 2013 01:01:31 PM CEST
+EESchema-DOCLIB  Version 2.0  Date: Sat 25 May 2013 02:13:17 PM CEST
 #
 $CMP AD7224KNZ
 D IC DAC 8BIT LC2MOS 18-DIP
@@ -30,6 +30,42 @@ $CMP AD7718
 D ADC, 24-bit, SIGMA-DELTA, 8/10 inputs (4/5 differential), int/ext ref., SPI, 2 GPIO
 K ADC SPI GPIO 24bit sigma-delta
 F http://www.analog.com/static/imported-files/data_sheets/AD7708_7718.pdf
+$ENDCMP
+#
+$CMP ADR4520
+D Ultralow Noise,High Accuracy, Voltage Reference 2.048V, up to 15V VCC, Vout 2ppm/°C, -+10mA, 
+K AD ADC DAC REF reference
+F http://www.analog.com/static/imported-files/data_sheets/ADR4520_4525_4530_4533_4540_4550.pdf
+$ENDCMP
+#
+$CMP ADR4525
+D Ultralow Noise,High Accuracy, Voltage Reference 2.5V, up to 15V VCC, Vout 2ppm/°C, -+10mA, 
+K AD ADC DAC REF reference
+F http://www.analog.com/static/imported-files/data_sheets/ADR4520_4525_4530_4533_4540_4550.pdf
+$ENDCMP
+#
+$CMP ADR4530
+D Ultralow Noise,High Accuracy, Voltage Reference 3V, up to 15V VCC, Vout 2ppm/°C, -+10mA, 
+K AD ADC DAC REF reference
+F http://www.analog.com/static/imported-files/data_sheets/ADR4520_4525_4530_4533_4540_4550.pdf
+$ENDCMP
+#
+$CMP ADR4533
+D Ultralow Noise,High Accuracy, Voltage Reference 3.3V, up to 15V VCC, Vout 2ppm/°C, -+10mA, 
+K AD ADC DAC REF reference
+F http://www.analog.com/static/imported-files/data_sheets/ADR4520_4525_4530_4533_4540_4550.pdf
+$ENDCMP
+#
+$CMP ADR4540
+D Ultralow Noise,High Accuracy, Voltage Reference 4.096V, up to 15V VCC, Vout 2ppm/°C, -+10mA, 
+K AD ADC DAC REF reference
+F http://www.analog.com/static/imported-files/data_sheets/ADR4520_4525_4530_4533_4540_4550.pdf
+$ENDCMP
+#
+$CMP ADR4550
+D Ultralow Noise,High Accuracy, Voltage Reference 5V, up to 15V VCC, Vout 2ppm/°C, -+10mA, 
+K AD ADC DAC REF reference
+F http://www.analog.com/static/imported-files/data_sheets/ADR4520_4525_4530_4533_4540_4550.pdf
 $ENDCMP
 #
 #End Doc Library
