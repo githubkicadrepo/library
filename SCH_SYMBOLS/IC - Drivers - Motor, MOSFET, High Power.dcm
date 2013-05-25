@@ -1,3 +1,27 @@
-EESchema-DOCLIB  Version 2.0  Date: Thu 18 Apr 2013 12:34:04 AM EDT
+EESchema-DOCLIB  Version 2.0  Date: Sat 25 May 2013 10:54:04 AM CEST
+#
+$CMP ADP3623
+D High speed, Dual, 4A MOSFET Driver with Thermal Protection, 4.5V ~ 18V VDD
+K MOSFET DRIVER OTW DUAL
+F http://www.analog.com/static/imported-files/data_sheets/ADP3623_3624_3625_3633_3634_3635.pdf
+$ENDCMP
+#
+$CMP ADP3624
+D High speed, Dual, 4A MOSFET Driver with Thermal Protection, 4.5V ~ 18V VDD
+K MOSFET DRIVER OTW DUAL
+F http://www.analog.com/static/imported-files/data_sheets/ADP3623_3624_3625_3633_3634_3635.pdf
+$ENDCMP
+#
+$CMP ADP3633
+D High speed, Dual, 4A MOSFET Driver with Thermal Protection, 9.5V ~ 18V VDD
+K MOSFET DRIVER OTW DUAL
+F http://www.analog.com/static/imported-files/data_sheets/ADP3623_3624_3625_3633_3634_3635.pdf
+$ENDCMP
+#
+$CMP ADP3634
+D High speed, Dual, 4A MOSFET Driver with Thermal Protection, 9.5V ~ 18V VDD
+K MOSFET DRIVER OTW DUAL
+F http://www.analog.com/static/imported-files/data_sheets/ADP3623_3624_3625_3633_3634_3635.pdf
+$ENDCMP
 #
 #End Doc Library
