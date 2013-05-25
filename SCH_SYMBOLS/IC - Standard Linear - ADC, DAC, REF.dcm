@@ -1,0 +1,35 @@
+EESchema-DOCLIB  Version 2.0  Date: Sat 25 May 2013 01:01:31 PM CEST
+#
+$CMP AD7224KNZ
+D IC DAC 8BIT LC2MOS 18-DIP
+K IC DAC 8BIT LC2MOS 18-DIP
+$ENDCMP
+#
+$CMP AD7224KRZ-1
+D IC DAC 8BIT W/AMP 20-SOIC
+K IC DAC 8BIT W/AMP 20-SOIC
+$ENDCMP
+#
+$CMP AD7224KRZ-18
+D IC DAC 8BIT W/OUTPUT AMPS 18SOIC
+K IC DAC 8BIT W/OUTPUT AMPS 18SOIC
+$ENDCMP
+#
+$CMP AD7329BRUZ
+D IC ADC 12BIT 8CH MUX SPI 24TSSOP
+K IC ADC 12BIT 8CH MUX SPI 24TSSOP
+$ENDCMP
+#
+$CMP AD7708
+D ADC, 16-bit, SIGMA-DELTA, 8/10 inputs (4/5 differential), int/ext ref., SPI, 2 GPIO
+K ADC SPI GPIO 24bit sigma-delta
+F http://www.analog.com/static/imported-files/data_sheets/AD7708_7718.pdf
+$ENDCMP
+#
+$CMP AD7718
+D ADC, 24-bit, SIGMA-DELTA, 8/10 inputs (4/5 differential), int/ext ref., SPI, 2 GPIO
+K ADC SPI GPIO 24bit sigma-delta
+F http://www.analog.com/static/imported-files/data_sheets/AD7708_7718.pdf
+$ENDCMP
+#
+#End Doc Library
