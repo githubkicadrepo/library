@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0  Date: Sat 25 May 2013 01:27:08 PM CEST
+#
+$CMP TDC-GP1
+D TDC (Time to Digital Converter), 2 ch (250ps resolution), 2.7V ~ 5.5V, direct RLC measurement, 44-TQFP
+K TDC ACAM RLC
+$ENDCMP
+#
+#End Doc Library
