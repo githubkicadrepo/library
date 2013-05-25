@@ -1,3 +1,9 @@
-EESchema-DOCLIB  Version 2.0  Date: Thu 18 Apr 2013 12:15:51 AM EDT
+EESchema-DOCLIB  Version 2.0  Date: Sat 25 May 2013 12:39:34 PM CEST
+#
+$CMP ADT7410
+D Temperature Sensor, I2C, +-0.5°C Accurate, 16-bit
+K temperature sensor i2c AD
+F http://www.analog.com/static/imported-files/data_sheets/ADT7410.pdf
+$ENDCMP
 #
 #End Doc Library
