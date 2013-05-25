@@ -1,3 +1,9 @@
-EESchema-DOCLIB  Version 2.0  Date: Thu 18 Apr 2013 12:29:12 AM EDT
+EESchema-DOCLIB  Version 2.0  Date: Sat 25 May 2013 01:39:32 PM CEST
+#
+$CMP AD8208
+D High Voltage, Precision Difference Amplifier, GAIN: 20,-2V ~ 45V, +-1mV offset, -5ppm/°C typ. gain drift, 80dB CMRR to 10kHz, (suitable for highside sense Resitor))
+K AMP AD DIFFERENCE AMPLIFIER 
+F http://www.analog.com/static/imported-files/data_sheets/AD8208.pdf
+$ENDCMP
 #
 #End Doc Library
