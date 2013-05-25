@@ -1,3 +1,9 @@
-EESchema-DOCLIB  Version 2.0  Date: Thu 18 Apr 2013 12:33:05 AM EDT
+EESchema-DOCLIB  Version 2.0  Date: Sat 25 May 2013 02:44:46 PM CEST
+#
+$CMP LT3482
+D Boost DC/DC converter with APD Current monitor, max Vout 90V, 16-QFN (3*3mm !)
+K APD DRIVER DCDC BOOST
+F http://cds.linear.com/docs/en/datasheet/3482fa.pdf
+$ENDCMP
 #
 #End Doc Library
