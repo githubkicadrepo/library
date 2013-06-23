@@ -1,9 +1,4 @@
 EESchema-DOCLIB  Version 2.0  Date: Fri 07 Jun 2013 12:50:25 AM CEST
 #
-$CMP ADG3300
-D Lov Voltage, BiDirectional Level translator, 1.15V<=VCCA<=VCCY<=5.5V, up to 50Mb/s
-K LEVEL SHIFT AD CONVERTER
-F http://www.analog.com/static/imported-files/data_sheets/ADG3300.pdf
-$ENDCMP
 #
 #End Doc Library
